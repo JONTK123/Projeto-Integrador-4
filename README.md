@@ -1,5 +1,3 @@
-# Projeto-Integrador-4
-
 # GoCampus
 
 O GoCampus é uma plataforma que conecta estudantes a empresas de transporte universitário. Com o GoCampus, os usuários podem buscar por empresas que oferecem serviços de transporte para suas universidades ou regiões, avaliar essas empresas e escolher a melhor opção para suas necessidades. As empresas, por sua vez, podem se cadastrar na plataforma, fornecer informações sobre suas rotas e atrair mais clientes.
