@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/logo_go_campus.png" alt="GoCampus Logo" width="200"/>
   
-  [![Flutter](https://img.shields.io/badge/Flutter-3.5.3-02569B?logo=flutter)](https://flutter.dev)
+  [![Flutter](https://img.shields.io/badge/Flutter-SDK%203.5.3%2B-02569B?logo=flutter)](https://flutter.dev)
   [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFA611?logo=firebase)](https://firebase.google.com)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 </div>
@@ -85,8 +85,8 @@ lib/
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
-- ✅ **Flutter SDK** (versão 3.5.3 ou superior)
-- ✅ **Dart SDK** (versão 3.5.3 ou superior)
+- ✅ **Flutter SDK** (3.5.3 ou superior)
+- ✅ **Dart SDK** (3.5.3 ou superior)
 - ✅ **Android Studio** ou **VS Code** com extensões Flutter/Dart
 - ✅ **Git** para controle de versão
 - ✅ **Java JDK** (para o backend)
@@ -303,8 +303,8 @@ Desenvolvido como Projeto Integrador 4
 
 Para dúvidas, sugestões ou feedback:
 
-- 📧 Email: [Adicionar email do projeto]
 - 🐛 Issues: [GitHub Issues](https://github.com/JONTK123/Projeto-Integrador-4/issues)
+- 💬 Discussões: [GitHub Discussions](https://github.com/JONTK123/Projeto-Integrador-4/discussions)
 
 ## 🗺️ Roadmap
 
